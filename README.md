@@ -48,4 +48,3 @@ Contact
 Author
 
 S VARDHAN
-Junior Frontend Developer
