@@ -37,6 +37,7 @@ Amazon E-commerce UI
 
 - Built using HTML, CSS, and JavaScript.
 
+---
 
 Contact
 
@@ -44,7 +45,7 @@ Contact
 * GitHub: https://github.com/Vardhan8060
 * LinkedIn: https://www.linkedin.com/in/s-vardhan-68a749635
 
+---
 
-Author
-
+*Author
 S VARDHAN
